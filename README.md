@@ -22,7 +22,7 @@
 
 - 🤔 I’m looking for help with creating end to end projects in ML and Deep Learning
 
-- 💬 Ask me about Data Science, SQL and any other tech related stuff
+- 💬 Ask me about Data Science, Movies, Series and any other tech related stuff
 
 - 📫 Reach me:
 
