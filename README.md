@@ -25,7 +25,6 @@
 - 💬 Ask me about Data Science, SQL and any other tech related stuff
 
 - 📫 Reach me:
-<p align='center'>
   
   <a href="https://www.linkedin.com/in/jerish-b/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -38,10 +37,7 @@
    </a>&nbsp;&nbsp; 
   <a href="https://www.hackerrank.com/b_jerish">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
-   </a>&nbsp;&nbsp; 
-  
-  
-</p>
+   </a>&nbsp;&nbsp;
 
 - ⚡ Fun fact: I'm a big foodie and also I love music 
 
