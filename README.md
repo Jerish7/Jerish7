@@ -11,6 +11,6 @@
 - 💬 Ask me about Data Science, SQL and any other tech related stuff
 
 - 📫 How to reach me: Linkedin: @jerish-b Instagram: <img src="{https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white}" />
-- 
+
 - ⚡ Fun fact: I'm a big foodie
 
