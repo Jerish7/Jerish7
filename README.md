@@ -18,7 +18,7 @@
           
 - 🔭 I’m currently working as a Data Science Intern at Flip Robo Technologies
 
-- 🌱 I’m currently learning RNN 
+- 🌱 I’m currently learning image segmentation and RNN
 
 - 🤔 I’m looking for help with creating end to end projects in ML and Deep Learning
 
