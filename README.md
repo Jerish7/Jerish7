@@ -31,5 +31,5 @@
   
 </p>
 
-- ⚡ Fun fact: I'm a big foodie
+- ⚡ Fun fact: I'm a big foodie and also I love music 
 
