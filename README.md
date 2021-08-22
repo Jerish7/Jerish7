@@ -12,7 +12,17 @@
 
 - 💬 Ask me about Data Science, SQL and any other tech related stuff
 
-- 📫 How to reach me: Linkedin: @jerish-b Instagram: <img src="{https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white}" />
+- 📫 Reach me:
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/jerish-b/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/_jerish_71197_">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
 
 - ⚡ Fun fact: I'm a big foodie
 
