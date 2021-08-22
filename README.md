@@ -1,5 +1,5 @@
 ### Hi there👋 I'm Jerish
-<img src="https://github-readme-stats.vercel.app/api?username=Jerish7" />
+<img src="https://github-readme-stats.vercel.app/api?username=Jerish7&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 - 🔭 I’m currently working as a Data Science Intern at Flip Robo Technologies
 - 🌱 I’m currently learning RNN 
 - 🤔 I’m looking for help with creating end to end projects in ML and Deep Learning
