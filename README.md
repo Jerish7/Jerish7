@@ -16,11 +16,7 @@ Technical skills:
           <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
           <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />        
           
-- 🔭 I’m currently working as a Data Science Intern at Flip Robo Technologies
-
-- 🌱 I’m currently learning image segmentation and RNN
-
-- 🤔 I’m looking for help with creating end to end projects in ML and Deep Learning
+- 🔭 I’m currently working as a Senior Associate at Genpact under Data Science
 
 - 💬 Ask me about Data Science, Movies, Series and any other tech related stuff
 
